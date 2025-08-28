@@ -1,0 +1,15 @@
+batch_size: 128
+clip_range: 0.15000000000000002
+dropout: 0.303661058541912
+ent_coef: 0.0020393692363381813
+gae_lambda: 0.8
+gamma: 0.968
+hidden_dim: 507
+learning_rate: 1.1711627429069993e-05
+linear_dim: 199
+max_grad_norm: 0.10781816782910454
+n_epochs: 3
+n_steps: 896
+total_timesteps: 100000
+vf_coef: 0.30000000000000004
+window_size: 60

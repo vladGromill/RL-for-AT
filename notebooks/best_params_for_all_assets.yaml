@@ -1,0 +1,15 @@
+'window_size': 60
+'total_timesteps': 50000
+'n_steps': 512
+'batch_size': 1024
+'n_epochs': 10
+'gamma': 0.9540000000000001
+'gae_lambda': 0.8200000000000001
+'clip_range': 0.35
+'learning_rate': 1.4096175149815848e-05
+'ent_coef': 0.08862326508576249
+'vf_coef': 0.8
+'max_grad_norm': 0.2788441133807552
+'linear_dim': 33
+'dropout': 0.6708229999183839
+'hidden_dim': 381
